@@ -6,8 +6,8 @@
 .bg-container-whole-page{
     background-image:url("https://pics.craiyon.com/2023-10-26/02fc6522b7054d939da525352775347d.webp");
     background-size:cover;
-    height:100vh;
-    width:100vw;
+    height:100%;
+    width:100%;
 }
 
 html,
